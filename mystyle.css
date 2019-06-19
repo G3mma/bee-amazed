@@ -39,3 +39,28 @@
   heigth: 100%;
   margin-bottom: 10px;
 }
+
+.carousel-control.right, .carousel-control.left {
+  background-image: none;
+  color: #EBAF4C;
+}
+
+.carosuel-indicators li {
+  border-color: #EBAF4C;
+}
+
+.carousel-indicators li.active {
+  background-color: #EBAF4C;
+}
+
+.item h4 {
+  font-size: 19px;
+  line-height: 1.375em;
+  font-weigth: 400;
+  font-style: italic;
+  margin: 70px 0;
+}
+
+.item span {
+  font-style: normal;
+}

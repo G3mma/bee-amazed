@@ -1,3 +1,5 @@
+
+
 .jumbotron {
   background-color: #EBAF4C;
   color: #fff;
@@ -16,7 +18,7 @@
   font-size: 200px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1199.98px) {
   .col-sm-4 {
     text-align: center;
     margin: 25px 0;
